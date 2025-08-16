@@ -186,13 +186,6 @@ DELIMITER ;
 
 **To run:** `CALL SubscriberWatchHistoryReport();`
 
-### Final Submission
-
-The final submission should be a ZIP file named `2025201080_lab2.ZIP` containing the following files:
-
-  - `q1.sql`, `q2.sql`, `q3.sql`, `q4.sql`, `q5.sql`
-  - `README.TXT`
-
 ### Git Repository
 
 Git Repository Link: https://github.com/Yogesh-Narasimha/SQL-Stored-Procedures-and-Cursors
